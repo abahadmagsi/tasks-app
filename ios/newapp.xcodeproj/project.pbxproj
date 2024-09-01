@@ -14,6 +14,17 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-newapp-newappTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-newapp-newappTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		4A4CE8AE8D06456FB039D5CF /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99C80EF95E36499EB19C7D8E /* Lato-Black.ttf */; };
+		84EF6E8B9195477CA95D66E2 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D58FD19C7B6E42D58F29FF2C /* Lato-BlackItalic.ttf */; };
+		103E7871BC334BAE941BC171 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D7D860F9DBE43F78ABD793D /* Lato-Bold.ttf */; };
+		EBE4A3837891429F82417494 /* Lato-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7A0A463B592469083E693A5 /* Lato-BoldItalic.ttf */; };
+		1DD793EC23D348AA82E193FC /* Lato-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03BA590482814F96AB78DB23 /* Lato-Italic.ttf */; };
+		DF04E5A2B8DF4E01A8A85075 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBAD29C4E0DA444E91F35AAC /* Lato-Light.ttf */; };
+		6FA46845084B4AF3B1F7971A /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E19F78685194BAB904562AA /* Lato-LightItalic.ttf */; };
+		3433AF15CC0241B6A7A0194A /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 020A261B827D4CE0A121DBDF /* Lato-Regular.ttf */; };
+		6A4F935B7E204B529FEA677D /* Lato-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B36E2A29B3E54100B0E5268C /* Lato-Thin.ttf */; };
+		407B3EE886B746AB896E3DF5 /* Lato-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36425A8E1CE64F6AA758B4F0 /* Lato-ThinItalic.ttf */; };
+		0AD1955A041348008CDA6BA5 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 43F674D8FA9B45FD9DE60B90 /* OFL.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +47,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = newapp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = newapp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = newapp/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = newapp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = newapp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-newapp-newappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-newapp-newappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-newapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-newapp.debug.xcconfig"; path = "Target Support Files/Pods-newapp/Pods-newapp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-newapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-newapp.release.xcconfig"; path = "Target Support Files/Pods-newapp/Pods-newapp.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +56,17 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = newapp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-newapp-newappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-newapp-newappTests.release.xcconfig"; path = "Target Support Files/Pods-newapp-newappTests/Pods-newapp-newappTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		99C80EF95E36499EB19C7D8E /* Lato-Black.ttf */ = {isa = PBXFileReference; name = "Lato-Black.ttf"; path = "../src/assets/fonts/lato/Lato-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D58FD19C7B6E42D58F29FF2C /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Lato-BlackItalic.ttf"; path = "../src/assets/fonts/lato/Lato-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4D7D860F9DBE43F78ABD793D /* Lato-Bold.ttf */ = {isa = PBXFileReference; name = "Lato-Bold.ttf"; path = "../src/assets/fonts/lato/Lato-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B7A0A463B592469083E693A5 /* Lato-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Lato-BoldItalic.ttf"; path = "../src/assets/fonts/lato/Lato-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		03BA590482814F96AB78DB23 /* Lato-Italic.ttf */ = {isa = PBXFileReference; name = "Lato-Italic.ttf"; path = "../src/assets/fonts/lato/Lato-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CBAD29C4E0DA444E91F35AAC /* Lato-Light.ttf */ = {isa = PBXFileReference; name = "Lato-Light.ttf"; path = "../src/assets/fonts/lato/Lato-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2E19F78685194BAB904562AA /* Lato-LightItalic.ttf */ = {isa = PBXFileReference; name = "Lato-LightItalic.ttf"; path = "../src/assets/fonts/lato/Lato-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		020A261B827D4CE0A121DBDF /* Lato-Regular.ttf */ = {isa = PBXFileReference; name = "Lato-Regular.ttf"; path = "../src/assets/fonts/lato/Lato-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B36E2A29B3E54100B0E5268C /* Lato-Thin.ttf */ = {isa = PBXFileReference; name = "Lato-Thin.ttf"; path = "../src/assets/fonts/lato/Lato-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		36425A8E1CE64F6AA758B4F0 /* Lato-ThinItalic.ttf */ = {isa = PBXFileReference; name = "Lato-ThinItalic.ttf"; path = "../src/assets/fonts/lato/Lato-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		43F674D8FA9B45FD9DE60B90 /* OFL.txt */ = {isa = PBXFileReference; name = "OFL.txt"; path = "../src/assets/fonts/lato/OFL.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				F6DB20787B3944FDA15509EC /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +172,25 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		F6DB20787B3944FDA15509EC /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				99C80EF95E36499EB19C7D8E /* Lato-Black.ttf */,
+				D58FD19C7B6E42D58F29FF2C /* Lato-BlackItalic.ttf */,
+				4D7D860F9DBE43F78ABD793D /* Lato-Bold.ttf */,
+				B7A0A463B592469083E693A5 /* Lato-BoldItalic.ttf */,
+				03BA590482814F96AB78DB23 /* Lato-Italic.ttf */,
+				CBAD29C4E0DA444E91F35AAC /* Lato-Light.ttf */,
+				2E19F78685194BAB904562AA /* Lato-LightItalic.ttf */,
+				020A261B827D4CE0A121DBDF /* Lato-Regular.ttf */,
+				B36E2A29B3E54100B0E5268C /* Lato-Thin.ttf */,
+				36425A8E1CE64F6AA758B4F0 /* Lato-ThinItalic.ttf */,
+				43F674D8FA9B45FD9DE60B90 /* OFL.txt */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +287,17 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				4A4CE8AE8D06456FB039D5CF /* Lato-Black.ttf in Resources */,
+				84EF6E8B9195477CA95D66E2 /* Lato-BlackItalic.ttf in Resources */,
+				103E7871BC334BAE941BC171 /* Lato-Bold.ttf in Resources */,
+				EBE4A3837891429F82417494 /* Lato-BoldItalic.ttf in Resources */,
+				1DD793EC23D348AA82E193FC /* Lato-Italic.ttf in Resources */,
+				DF04E5A2B8DF4E01A8A85075 /* Lato-Light.ttf in Resources */,
+				6FA46845084B4AF3B1F7971A /* Lato-LightItalic.ttf in Resources */,
+				3433AF15CC0241B6A7A0194A /* Lato-Regular.ttf in Resources */,
+				6A4F935B7E204B529FEA677D /* Lato-Thin.ttf in Resources */,
+				407B3EE886B746AB896E3DF5 /* Lato-ThinItalic.ttf in Resources */,
+				0AD1955A041348008CDA6BA5 /* OFL.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
